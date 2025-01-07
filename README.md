@@ -60,7 +60,7 @@ This project utilized Power BI for data modeling, analysis, and visualization. T
 
 ### How to Use
 
-1. Download the `dataquest_analysis.pbix` file.
+1. Download the `Power BI Final Project - Complete.pbix` file.
 2. Open the file in Power BI Desktop to explore interactive dashboards.
 3. Utilize slicers and filters to focus on specific courses or trends.
 4. Review the "Recommendations" page for detailed insights into course improvement opportunities.
